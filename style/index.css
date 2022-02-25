@@ -1,6 +1,9 @@
  p {
-     color : red;
+     color : blue;
 	 }
  img {
       border : 2px solid green;
 	 }
+ li p {
+	 color : blue;
+     }
